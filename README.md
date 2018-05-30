@@ -1,2 +1,2 @@
-# MIPSBitShifting-1
-Bit Shifting in MIPS 32
+# MIPSAssembly in MIPS 32
+A list of interesting programs written in MIPS32.
